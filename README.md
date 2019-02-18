@@ -1,2 +1,0 @@
-# Android-BluetoothPrinter
-Android-BluetoothPrinter
